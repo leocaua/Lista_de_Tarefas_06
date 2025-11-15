@@ -1,7 +1,3 @@
-Claro. Aqui está uma excelente estrutura para o seu README.md.
-
-Copie e cole o texto abaixo em um novo arquivo chamado README.md na raiz do seu projeto no GitHub (na pasta projeto-listatarefas_spring_vue_cors).
-
 Lista de Tarefas 06 — Spring Boot + Vue.js
 Este repositório é a entrega da atividade "Projeto Lista de Tarefas 06". O objetivo é uma aplicação Web Full Stack que integra um backend em Spring Boot e um frontend em Vue.js, abordando a configuração e a correção de problemas de comunicação entre eles (CORS).
 
